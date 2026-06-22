@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+pysam
+pyarrow
+gseapy
+statannotations
+pybedtools
+sympy
+torch
